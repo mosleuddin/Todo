@@ -3,32 +3,31 @@ Todo is a simple desktop application to record your important tasks, so that you
 
 
 
-
-              ### Main Window with no records
+   ## Main Window with no records
 
 ![Main Window with no records](/screen_shots/no_records.png)
 
              
              
-             ### Main Window with records
+   ## Main Window with records
 
 ![Main Window with records](/screen_shots/main_win.png)
 
 
 
-            ### Edit Window
+   ## Edit Window
 
 ![Edit Window](/screen_shots/edit_win.png)
 
 
 
-          ### About Application
+   ## About Application
 
 ![About Application](/screen_shots/about_app.png)
       
       
       
-         ### About Developer    
+   ## About Developer    
 ![About Developer](/screen_shots/about_dev.png)
 
                                                                            
